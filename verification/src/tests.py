@@ -2,7 +2,7 @@ TESTS = {
     "Level_1": [
         {
             "input": "az",
-            "answer": "az",
+            "answer": "za",
         },
         {
             "input": "aiiiiiz",
